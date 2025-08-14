@@ -2,7 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/int_like.svg)](https://crates.io/crates/int_like)
 [![Documentation](https://docs.rs/int_like/badge.svg)](https://docs.rs/int_like)
-[![License](https://img.shields.io/crates/l/int_like.svg)](https://github.com/fslongjin/int_like/blob/main/LICENSE)
+[![License](https://img.shields.io/crates/l/int_like.svg)](https://github.com/fslongjin/int_like/blob/master/LICENSE)
 
 A Rust macro for defining integer-backed opaque types safely.
 
